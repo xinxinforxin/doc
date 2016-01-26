@@ -1,0 +1,35 @@
+body{
+    padding: 4% 0;
+}
+.content{
+    margin-top:50px;
+}
+
+.content .title{
+    color: #222;
+    border-left: 4px solid red;
+    padding-left: 10px;
+    border-bottom-left-radius: 2px;     
+    border-top-left-radius: 2px;
+}
+
+.content h4{
+    color: #222;
+}
+
+.content p{
+    text-indent: 2em;
+    color:#444;
+    line-height: 1.6em;
+    text-indent:2em;
+    word-wrap: break-word;
+    margin-top: 1em;
+}
+
+.content .pic_list{
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.content .pic_list > img{
+    width: 92%;
+}
